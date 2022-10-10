@@ -3,14 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/activity_web_view.xml" value="0.2" />
         <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/fragment_entertainment.xml" value="0.2" />
         <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/fragment_health.xml" value="0.2" />
-        <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/fragment_home.xml" value="0.18" />
         <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/fragment_science.xml" value="0.2" />
         <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/fragment_sports.xml" value="0.1" />
         <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/fragment_technology.xml" value="0.2" />
         <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/layout_item.xml" value="0.22" />
+        <entry key="..\:/android projects/Learning/Random/NewsFresh/app/src/main/res/layout/list_item.xml" value="0.5" />
       </map>
     </option>
   </component>
